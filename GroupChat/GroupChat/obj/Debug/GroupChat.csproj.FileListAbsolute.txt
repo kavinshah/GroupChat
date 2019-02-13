@@ -1,0 +1,12 @@
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\bin\Debug\GroupChat.exe.config
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\bin\Debug\GroupChat.exe
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\bin\Debug\GroupChat.pdb
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.Form1.resources
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.GUI.ChatWindow.resources
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.GUI.GroupCreation.resources
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.GUI.Login.resources
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.Properties.Resources.resources
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.csproj.GenerateResource.Cache
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.exe
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.pdb
+C:\Users\Kavin\Desktop\dotnet projects\GroupChat\GroupChat\obj\Debug\GroupChat.csprojResolveAssemblyReference.cache
