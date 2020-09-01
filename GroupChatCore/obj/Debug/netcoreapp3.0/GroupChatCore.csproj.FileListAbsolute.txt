@@ -1,0 +1,16 @@
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\GroupChatCore.csproj.CoreCompileInputs.cache
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\MyCoreApp.exe
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\MyCoreApp.deps.json
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\MyCoreApp.runtimeconfig.json
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\MyCoreApp.runtimeconfig.dev.json
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\MyCoreApp.dll
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\MyCoreApp.pdb
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\GroupChatCore.csproj.CopyComplete
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\MyCoreApp.dll
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\MyCoreApp.pdb
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\GroupChatCore.genruntimeconfig.cache
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\GroupChatCore.csprojAssemblyReference.cache
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\GroupChat.Form1.resources
+C:\Users\kavin\OneDrive\Desktop\pendrive\dotnet projects\GroupChat\GroupChatCore\obj\Debug\netcoreapp3.0\GroupChatCore.csproj.GenerateResource.cache
